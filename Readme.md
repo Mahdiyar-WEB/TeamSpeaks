@@ -4,7 +4,7 @@
  serverson a specific port that you can talk to and personalize like discord.
 > I could not make the project public
 > because it was confidential
-> so i prepared some panel photos for you. 
+> so i prepared some panel photos and video for you. 
 
 # Libraries
 - Sweetalert(1 & 2) 
